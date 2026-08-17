@@ -1,0 +1,6 @@
+.idea
+*.iml
+out
+.DS_Store
+docs/javadoc/
+target/
