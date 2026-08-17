@@ -52,7 +52,6 @@ Along the way you'll run into hostile and neutral creatures (`Watcher`, `Undead`
 ```
 project-main/
 ├── README.md                  # this file
-├── feature-proposal.md        # detailed design write-up for the weather system (REQ5)
 ├── .gitignore
 ├── src/
 │   ├── main/java/
